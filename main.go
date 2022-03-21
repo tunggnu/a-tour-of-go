@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	e24()
+	e25()
 }
